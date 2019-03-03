@@ -8,15 +8,18 @@ Kaggle Competition https://www.kaggle.com/c/avito-demand-prediction
 2. Data Preprocessing
  - Handling Missing Data
  - Handling Categorical Features
-3. Applying following Algorithms
- i. Bayes Ridge Regression  
- ii. Lasso
- iii. XG Boost Regression 
- iv. Light Gradient Boosting Regression
+3. Applying following Algorithms <br>
+ i. Bayes Ridge Regression  <br>
+ ii. Lasso <br>
+ iii. XG Boost Regression <br> 
+ iv. Light Gradient Boosting Regression <br>
 
-Comparison of Scores
+ ### Comparison of Scores <br>
+ 
  ![Screenshot](images/Untitled.png)
 
 4. Stacking the output of indivisual algorithm as input  
-Comparison of Scores after stacking 
+
+ ### Comparison of Scores after stacking <br>
+ 
 ![Screenshot](images/u2.png)
