@@ -18,4 +18,4 @@ Comparison of Scores
  ![Screenshot](images/Untitled.png)
 
 
-![Screenshot](images/Screen\ Shot\ 2019-03-03\ at\ 12.06.05\ PM.png)
+![Screenshot](images/u2.png)
