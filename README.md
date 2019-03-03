@@ -23,3 +23,13 @@ Kaggle Competition https://www.kaggle.com/c/avito-demand-prediction
  ### Comparison of Scores after stacking <br>
  
 ![Screenshot](images/u2.png)
+
+<br>
+Content of files:<br>
+preprocessing.ipynb - conatins script to preprocess data.
+EDA.ipynb - Visualizing and better understanding the data. 
+4models.ipynb - Applying 4 algorithms on clean data 
+LGBoostCV.ipynb - Parameter tuning and CV for LGBoost 
+XGBoostCV.ipynb - Parameter tuning and CV for XGBoost
+Stacking.ipynb - Visual comparision of results and stacking ouput as input to OLS, LASSO and LGBoost 
+INF552_Project_Avito_final.pdf - Detailed report on project 
