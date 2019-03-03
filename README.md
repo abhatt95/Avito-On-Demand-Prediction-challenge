@@ -27,15 +27,9 @@ Kaggle Competition https://www.kaggle.com/c/avito-demand-prediction
 <br>
 Content of files:<br>
 preprocessing.ipynb - conatins script to preprocess data.<br>
-
 EDA.ipynb - Visualizing and better understanding the data. <br>
-
 4models.ipynb - Applying 4 algorithms on clean data. <br>
-
 LGBoostCV.ipynb - Parameter tuning and CV for LGBoost. <br>
-
 XGBoostCV.ipynb - Parameter tuning and CV for XGBoost. <br>
-
 Stacking.ipynb - Visual comparision of results and stacking ouput as input to OLS, LASSO and LGBoost. <br>
-
 INF552_Project_Avito_final.pdf - Detailed report on project. 
