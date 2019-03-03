@@ -15,4 +15,4 @@ Handling Missing Data
 5.4 Light Gradient Boosting Regression
 
 Comparison of Scores
- ![Screenshot](screenshot.png)
+ ![Screenshot](images/Untitled.png)
