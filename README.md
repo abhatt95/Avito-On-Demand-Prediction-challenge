@@ -8,8 +8,8 @@ Kaggle Competition https://www.kaggle.com/c/avito-demand-prediction
 
 1. Exploratory Data Analysis
 2. Data Preprocessing
- -- Handling Missing Data
- - Handling Categorical Features
+  - Handling Missing Data
+  - Handling Categorical Features
 3. Applying following Algorithms <br>
  i. Bayes Ridge Regression  <br>
  ii. Lasso <br>
