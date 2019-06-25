@@ -4,9 +4,11 @@ The online advertisement industry is filled with a variety of advertisements tha
 The project aims at predicting the probability of online ads sale going through based on a variety of categorical and numerical features like category, geographical location and price or date respectively along with historical demand for such ads.
 Kaggle Competition https://www.kaggle.com/c/avito-demand-prediction
 
+- Key Components:
+
 1. Exploratory Data Analysis
 2. Data Preprocessing
- - Handling Missing Data
+ -- Handling Missing Data
  - Handling Categorical Features
 3. Applying following Algorithms <br>
  i. Bayes Ridge Regression  <br>
